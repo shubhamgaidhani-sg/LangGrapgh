@@ -5,4 +5,4 @@ load_dotenv()
 
 if __name__ == "__main__":
     print("Hello React LangGraph with function calling")
-    print (os.getenv("GOOGLE_API_KEY"))
+  
